@@ -1,0 +1,27 @@
+.m-table{
+  width: 100%;
+  table {
+    width: 100%;
+    color: #2e3133;
+    font-weight: 400;
+    border-collapse: collapse;/* 为table设置这个属性 */
+    thead,
+    tbody {
+     
+      th {
+        font-weight: 700;
+      }
+      td,
+      th {
+        line-height: 24px;
+        padding: 12px 8px;
+      }
+    }
+    thead {
+      text-align: center;
+    }
+  }
+  .displayNone{
+    display: none;
+  }
+}

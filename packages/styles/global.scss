@@ -1,0 +1,25 @@
+
+
+html{
+  background:inherit;// $htmlBgColor;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -o-user-select:none;
+  user-select:none;
+}
+
+body {
+  font-family:inherit;// $font-family;
+  // -webkit-overflow-scrolling: touch;
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+#app {
+  // -webkit-overflow-scrolling: touch;
+}
+
