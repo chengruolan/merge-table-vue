@@ -2,11 +2,11 @@ const table1Data = [
   {
     key: "1",
     name: "1",
-    chirdren: [
+    children: [
       {
         key: "1-1",
         name: "1-1",
-        chirdren: [
+        children: [
           {
             key: "1-1-1",
             name: "1-1-1"
@@ -24,7 +24,7 @@ const table1Data = [
       {
         key: "1-2",
         name: "1-2",
-        chirdren: [
+        children: [
           {
             key: "1-2-1",
             name: "1-2-1"
@@ -36,9 +36,9 @@ const table1Data = [
   {
     key: "2",
     name: "2",
-    chirdren: [
+    children: [
       {
-        chirdren: []
+        children: []
       }
     ]
   }

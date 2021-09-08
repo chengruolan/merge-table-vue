@@ -18,7 +18,7 @@
             }"
             :rowspan="
               tds[`layerIndexObj${colume.layerIndex}`]
-                ? tds[`layerIndexObj${colume.layerIndex}`].rowSpan
+                ? tds[`layerIndexObj${colume.layerIndex}`].rowspan
                 : 0
             "
           >
