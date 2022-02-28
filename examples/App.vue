@@ -5,7 +5,7 @@
       <div class="menu">
         <ul>
           <li><router-link to="/table1">1</router-link></li>
-          <li><router-link to="/foo">2</router-link></li>
+          <li><router-link to="/table2">2</router-link></li>
         </ul>
       </div>
       <div class="main">

@@ -37,7 +37,7 @@
 <script>
 import { flatObject } from "@p/util/tool.js";
 export default {
-  name: "MTable",
+  name: "TTable",
   props: {
     colums: {
       type: Array,

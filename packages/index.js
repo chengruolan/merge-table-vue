@@ -1,7 +1,13 @@
-import MTable from "./components/table";
+import { Table } from "ant-design-vue";
+import "ant-design-vue/lib/table/style";
+
+import TTable from "./components/table";
+import MTable from "./components/MTable";
 
 const components = {
-  MTable
+  TTable,
+  MTable,
+  Table
 };
 
 const install = Vue => {

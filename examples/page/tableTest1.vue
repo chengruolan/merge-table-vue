@@ -1,6 +1,6 @@
 <template>
   <div class="table111">
-    <MTable :tableData="table1Data" :colums="colums1"></MTable>
+    <t-table :tableData="table1Data" :colums="colums1"></t-table>
   </div>
 </template>
 <script>
